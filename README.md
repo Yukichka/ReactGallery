@@ -1,2 +1,0 @@
-# ReactGallery
-Created with CodeSandbox
